@@ -14,4 +14,5 @@ Full-stack developer and founder of [OctaByte](https://octabyte.io). I build ope
 #### 📫 Get in touch
 
 - Website: [octabyte.io](https://octabyte.io)
+- LinkedIn: [azeem-haider](https://www.linkedin.com/in/azeem-haider/)
 - Email: axeemhaider@gmail.com
